@@ -23,3 +23,8 @@ footer {
   max-width: 80%;
   max-height: auto;
 }
+
+.output {
+  max-width: 100%;
+  height: auto;
+}
