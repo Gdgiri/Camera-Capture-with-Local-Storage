@@ -9,4 +9,12 @@ video,
 img {
   border: 1px solid black;
   margin: 10px;
+  max-width: 100%;
+  height: auto;
+}
+
+header,
+footer {
+  width: 100%;
+  background-color: #f8f9fa;
 }
