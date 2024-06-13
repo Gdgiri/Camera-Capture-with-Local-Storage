@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Arial, sans-serif;
+}
+
+video,
+img {
+  border: 1px solid black;
+  margin: 10px;
+}
